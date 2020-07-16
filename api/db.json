@@ -1,0 +1,51 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Processo nº.: xxxxx-xx.xxxx.x.xx.xxxx Autor : MATHEUS",
+      "situacion": "Em análise",
+      "url": "",
+      "imageUrl": "https://image.freepik.com/icones-gratis/relogio-ampulheta_318-9121.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Processo nº.: xxxxx-xx.xxxx.x.xx.xxxx Autor : MARCOS",
+      "situacion": "Em análise",
+      "url": "",
+      "imageUrl": "https://image.freepik.com/icones-gratis/relogio-ampulheta_318-9121.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Processo nº.: xxxxx-xx.xxxx.x.xx.xxxx Autor : LUCAS ",
+      "situacion": "Aprovado",
+      "url": "",
+      "imageUrl": "https://icon-icons.com/icons2/1038/PNG/64/ok_good_check_mark_approved_icon-icons.com_76289.png"
+    },
+    {
+      "id": 4,
+      "title": "Processo nº.: xxxxx-xx.xxxx.x.xx.xxxx Autor : JOÃO",
+      "situacion": "Aprovado",
+      "url": "",
+      "imageUrl": "https://icon-icons.com/icons2/1038/PNG/64/ok_good_check_mark_approved_icon-icons.com_76289.png"
+    },
+    {
+      "title": "Processo nº.: xxxxx-xx.xxxx.x.xx.xxxx Autor : PEDRO",
+      "url": "",
+      "imageUrl": "https://icon-library.com/images/no-icon-png/no-icon-png-10.jpg",
+      "situacion": "Não aprovado",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Entrega da documentação referenete a causa.",
+      "promotionId": 1
+    },
+    {
+      "id": 2,
+      "comment": "comparecimento em tribunal no dia 20/06/2020.",
+      "promotionId": 2
+    }
+  ]
+}
